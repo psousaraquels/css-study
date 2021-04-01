@@ -1,0 +1,72 @@
+@keyframes circle-00{
+    50% {
+        transform: rotate(180deg);
+        height: 16px;
+        border-radius: 50%;
+    }
+}
+
+@keyframes circle-01{
+    50% {
+        transform: rotate(160deg);
+        height: 16px;
+        border-radius: 50%;
+    }
+}
+
+@keyframes circle-02{
+    50% {
+        transform: rotate(140deg);
+        height: 16px;
+        border-radius: 50%;
+    }
+}
+
+@keyframes circle-03{
+    50% {
+        transform: rotate(120deg);
+        height: 16px;
+        border-radius: 50%;
+    }
+}
+
+
+@keyframes circle-04{
+    50% {
+        transform: rotate(100deg);
+        height: 16px;
+        border-radius: 50%;
+    }
+}
+
+@keyframes circle-05{
+    50% {
+        transform: rotate(80deg);
+        height: 16px;
+        border-radius: 50%;
+    }
+}
+
+@keyframes circle-06{
+    50% {
+        transform: rotate(60deg);
+        height: 16px;
+        border-radius: 50%;
+    }
+}
+
+@keyframes circle-07{
+    50% {
+        transform: rotate(40deg);
+        height: 16px;
+        border-radius: 50%;
+    }
+}
+
+@keyframes circle-08{
+    50% {
+        transform: rotate(20deg);
+        height: 16px;
+        border-radius: 50%;
+    }
+}

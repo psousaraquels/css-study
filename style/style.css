@@ -1,0 +1,70 @@
+@import "../style/animate.css";
+
+.wrapper {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.content {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
+    overflow: hidden;
+    background-color: #ffffff;
+    color: #333;
+}
+
+
+.rectangle {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    border: 1px solid #000000;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+
+.circle_zero {
+    animation-name: circle-00;
+}
+
+.circle_one {
+    animation-name: circle-01;
+}
+
+.circle_two {
+    animation-name: circle-02;
+}
+
+.circle_three {
+    animation-name: circle-03;
+}
+
+.circle_four {
+    animation-name: circle-04;
+}
+
+.circle_five {
+    animation-name: circle-05;
+}
+
+.circle_six {
+    animation-name: circle-06;
+}
+
+.circle_seven {
+    animation-name: circle-07;
+}
+
+.circle_eight {
+    animation-name: circle-08;
+}
+
